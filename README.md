@@ -2,13 +2,14 @@
 
 # p13n-search-and-learn-2-rank
 
-This repository demonstrates the architecture of a personalized search system on an ecommerce site, which facilitates delivering personalized user experience in an efficient and scalable way. It contains three parts - 
+This repository demonstrates the architecture of a personalized search system on an ecommerce site, which facilitates delivering personalized user experience in an efficient and scalable way. It contains four parts - 
+
+
 
 ### 0. Dataset
 
 This repository uses [amazon review](https://s3.amazonaws.com/amazon-reviews-pds/readme.html) open dataset to perform demo
 Please follow the link above to setup AWS Glue Crawler and Athena first. 
-
 
 ### 1. A Search Engine 
 
